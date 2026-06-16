@@ -43,7 +43,6 @@ Python_Password_Manager/
 
 ├── README.md
 
-
 ## Note
 
 This project is created for educational purposes. Passwords are stored in plain text and are not encrypted. It is intended to demonstrate Python programming concepts such as file handling, dictionaries, functions, and exception handling.
