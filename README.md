@@ -43,7 +43,6 @@ Python_Password_Manager/
 
 ├── README.md
 
-└── .gitignore
 
 ## Note
 
